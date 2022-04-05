@@ -1,21 +1,21 @@
 
 title: Eric's C V
 url: 'http://junlulocky.com'
-baseurl: '/my-resume ' #change it according to your repository name
+baseurl: '/my-resume' #change it according to your repository name
 
 
 # Profile information
-yourname: Rabemampiandra Eric Noel  ## put your name
+yourname: R. Eric Noel  ## put your name
 title: 'Electronic Engineer & Huawei Core Network & AI, Data Science, full stack Dev'  ## your title
 location: Antananarivo, Madagascar
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: https://web.facebook.com/en.memsjava/  ## your facebook account url
+twitter: https://twitter.com/memsjava/ ## your twitter account url
+linkedin: https://www.linkedin.com/in/rabemampiandra-eric-noel-38327477/ ## your linkedin account url
+# dribbble: http://www.dribble.com  ## you dribbble account url
+# foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
