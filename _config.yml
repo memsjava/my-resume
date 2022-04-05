@@ -1,14 +1,13 @@
 
-title: My Resume
+title: Eric's C V
 url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
-
+baseurl: '/my-resume ' #change it according to your repository name
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Rabemampiandra Eric Noel  ## put your name
+title: 'Electronic Engineer & Huawei Core Network & AI, Data Science, full stack Dev'  ## your title
+location: Antananarivo, Madagascar
 
 
 ## Social Profiles
