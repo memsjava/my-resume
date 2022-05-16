@@ -248,7 +248,9 @@
                                         </li> -->
                                         <a href="#" id="downlowd"></a>
 
-                                        <a href="#" id="print"><i class="fa fa-print icon_print"></i> </a>
+                                        <a href="#" id="print"
+                                            onclick="print('https:\//drive.google.com/file/d/1qd2GdiNZ5uDRKVLnT7sxee5SI_oG12dR/view?usp=sharing')"><i><i
+                                                    class="fa fa-print icon_print"></i> </a>
                                         <a href="https://drive.google.com/file/d/1qd2GdiNZ5uDRKVLnT7sxee5SI_oG12dR/view?usp=sharing"
                                             id="downlowd" download><i class="fa fa-download icon_print"></i> </a>
                                     </ul>
@@ -1684,7 +1686,16 @@
             imageOne.setImageDirection();
 
         }
+        let print = (doc) => {
+            let objFra = document.createElement('iframe');     // Create an IFrame.
+            objFra.style.visibility = 'hidden';                // Hide the frame.
+            objFra.src = doc;                   // Set source.
 
+            document.body.appendChild(objFra);  // Add the frame to the web page.
+
+            objFra.contentWindow.focus();       // Set focus.
+            objFra.contentWindow.print();       // Print it.
+        }
     </script>
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
