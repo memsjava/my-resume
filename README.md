@@ -1,5 +1,4 @@
 # MyResume
-https://memsjava.github.io/my-resume/
 
 
 # Author
